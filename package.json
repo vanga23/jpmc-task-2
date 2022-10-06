@@ -16,6 +16,7 @@
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "2.1.3"
+    "@vanga23":"1.0.0"
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
